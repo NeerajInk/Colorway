@@ -7,7 +7,7 @@
  *
  * Learn more: http://codex.wordpress.org/Template_Hierarchy
  *
- * @package WordPress
+ * @package Colorway
  */
  ?>
 <?php get_header(); ?>

@@ -1,0 +1,50 @@
+== Changelog ==
+
+= Theme Name: Colorway Premium =
+
+= Version: 2.1.7=
+
+* * Timthumb script remove, Dynamic Image Cropping script used.
+
+* Gallery z-index issue fixed.
+
+= Version: 2.1.6=
+
+* Gallery z-index issue fixed.
+
+= Version: 2.1.5=
+
+* Gallery z-index issue fixed.
+
+* More social icons added.
+
+= Version: 2.1.4=
+
+* New Zoombox updated.
+
+* Optimized css.
+
+* Miner issues resolved.
+
+= Version: 2.1.3=
+
+* Enable blog page in front page.
+
+* Slider video bug fixed.
+
+* Language translation enabled.
+
+* Slider video enabled.
+
+
+== Version: 2.1.2==
+
+* Upgraded to single slider.
+
+* Removed unnecessary comments from all files.
+
+* Removed all unnecessary files.
+
+* Resolved Page list in sidebar widget.
+ 
+

@@ -1,0 +1,101 @@
+/*=========================================*/
+/*=========Green Color Scheme Style========*/
+/*=========================================*/
+a {
+	text-decoration:none;
+	color:#0f3f74;
+}
+a:hover {
+	color:#2565ac;
+}
+/*=========================================*/
+/*==========Start Home Page Style==========*/
+/*=========================================*/
+
+/*==========Menus Colors==========*/
+#menu .ddsmoothmenu li li a.selected, #menu .ddsmoothmenu li li a:hover { /*CSS class that's dynamically added to the currently active menu items' LI A element*/
+	color: #FFFFFF;
+	background:#2565ac;
+}
+#menu li.current-menu-item a, #menu li.current-menu-parent a, #menu li.current_page_parent a, #menu li a.selected, #menu li a:hover,#menu li.current_page_item a  {
+	color:#fff;
+	background:#0f3f74;
+}
+#menu .ddsmoothmenu li li {
+	background: #0f3f74;
+}
+/*==========Slider Colors==========*/
+.slide .slide-content.entry {
+	background:url(../images/purple.png);
+	border-right:8px solid #0f3f74;
+}
+#slides .pagination li a {
+	background-image:url(../images/pagination-blue.png);
+}
+.slide .slide-content.entry h2 a {
+	color:#000;
+}
+.slide-content p {
+	color: #000;
+}
+/*==========Blockquote Colors==========*/
+blockquote {
+	background:url(../images/qoute-blue.png) no-repeat;
+}
+blockquote a {
+	color:#0f3f74;
+}
+/*==========Footer Colors==========*/
+.footer-container {
+	background: #2565ac;
+}
+.footer-container h4 {
+	background: url(../images/h4-border-bg-blue.png) repeat-x;
+	background-position:0% 100%;
+	color:#5ba1ee;
+}
+.footer-container p {
+	color:#FFFFFF;
+}
+.footer-container .textwidget {
+	color: #b7bfaf;
+}
+.footer-container ul {
+	list-style-image:url(../images/disc-img-blue.png);
+}
+.footer-container a {
+	color:#b7bfaf;
+}
+.footer-navi .navigation ul li {
+	background:url(../images/border-right-blue.png) no-repeat;
+	background-position:100% 0%;
+}
+.footer-navi .navigation ul li a {
+	color:#FFFFFF;
+}
+.footer-navi .navigation .right-navi p {
+	color:#FFFFFF;
+}
+.footer-navi {
+	background:#0f3f74;
+}
+.footer #searchform label {
+	color: #b7bfaf;
+}
+.footer #searchform {
+	background:url(../images/search-bg-blue.png) no-repeat;
+}
+
+/*=========================================*/
+/*==========Start Home Page Style==========*/
+/*=========================================*/
+.folio-page-info ul.paging li.first a {
+	color:#FFFFFF;
+}
+.folio-page-info ul.paging li:hover {
+}
+ul.paging a.active, ul.paging a:hover, ul.paging a.current {
+	color:#ffffff !important;
+	border:1px solid #546F9E;
+	background:url(images/grad_px.gif) top repeat-x #2565AC;
+}

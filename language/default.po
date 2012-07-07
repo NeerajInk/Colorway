@@ -1,0 +1,212 @@
+# Copyright (C) 2011 Colorway Theme
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Colorway Theme 1.2.3\n"
+"Report-Msgid-Bugs-To: admin@inkthemes.comPOT-Creation-Date: 2011-10-12 12:47:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2011-11-15 18:01+0530\n"
+"Last-Translator: \n"
+"Language-Team: InkThemes <admin@inkthemes.com>\n"
+"POT-Creation-Date: \n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: INDIA\n"
+
+#: 404.php:16
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:19
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: archive.php:40
+msgid "Blog Archives"
+msgstr ""
+
+#: search.php:48
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:51
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: sidebar.php:7
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:13
+msgid "Categories"
+msgstr ""
+
+#: inkthemes-functions.php:215
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inkthemes-functions.php:243
+msgid "Pingback"
+msgstr ""
+
+#: archive.php:34
+msgid "Daily Archives"
+msgstr ""
+
+#: archive.php:36
+msgid "Monthly Archives"
+msgstr ""
+
+#: archive.php:38
+msgid "Yearly Archives"
+msgstr ""
+
+#: archive.php:60
+#: author.php:58
+#: category.php:42
+#: search.php:62
+#: tag.php:39
+msgid "&larr; Older posts"
+msgstr ""
+
+#: archive.php:61
+msgid "Newer posts &rarr"
+msgstr ""
+
+#: attachment.php:17
+msgid "Return to"
+msgstr ""
+
+#: attachment.php:20
+msgid "&larr;"
+msgstr ""
+
+#: attachment.php:48
+msgid "Full size is pixels"
+msgstr ""
+
+#: attachment.php:58
+#: attachment.php:96
+#: page.php:32
+msgid "Edit"
+msgstr ""
+
+#: attachment.php:93
+msgid "Continue reading &rarr;"
+msgstr ""
+
+#: attachment.php:94
+#: page.php:32
+msgid "Pages"
+msgstr ""
+
+#: author.php:33
+msgid "Author Archives"
+msgstr ""
+
+#: author.php:38
+msgid "About"
+msgstr ""
+
+#: author.php:59
+#: category.php:43
+#: search.php:63
+#: tag.php:40
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: category.php:24
+msgid "Category Archives"
+msgstr ""
+
+#: search.php:17
+msgid "Search Results for"
+msgstr ""
+
+#: tag.php:25
+msgid "Tag Archives"
+msgstr ""
+
+#: wp-pagenavi.php:32
+msgid "&laquo; First"
+msgstr ""
+
+#: wp-pagenavi.php:33
+msgid "Last &raquo;"
+msgstr ""
+
+#: wp-pagenavi.php:34
+msgid "&laquo;"
+msgstr ""
+
+#: wp-pagenavi.php:35
+msgid "&raquo;"
+msgstr ""
+
+#: wp-pagenavi.php:36
+#: wp-pagenavi.php:37
+msgid "..."
+msgstr ""
+
+#: inkthemes-functions.php:175
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the"
+msgstr ""
+
+#: inkthemes-functions.php:177
+msgid "This entry was posted in %1$s. Bookmark the"
+msgstr ""
+
+#: inkthemes-functions.php:179
+#: inkthemes-functions.php:223
+msgid "(Edit)"
+msgstr ""
+
+#: inkthemes-functions.php:276
+msgid "Primary Widget Area"
+msgstr ""
+
+#: inkthemes-functions.php:278
+msgid "The primary widget area"
+msgstr ""
+
+#: inkthemes-functions.php:286
+msgid "Secondary Widget Area"
+msgstr ""
+
+#: inkthemes-functions.php:288
+msgid "The secondary widget area"
+msgstr ""
+
+#: inkthemes-functions.php:296
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: inkthemes-functions.php:298
+msgid "The first footer widget area"
+msgstr ""
+
+#: inkthemes-functions.php:306
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: inkthemes-functions.php:308
+msgid "The second footer widget area"
+msgstr ""
+
+#: inkthemes-functions.php:308
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: inkthemes-functions.php:318
+msgid "The third footer widget area"
+msgstr ""
+
+#: inkthemes-functions.php:326
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: inkthemes-functions.php:328
+msgid "The fourth footer widget area"
+msgstr ""
+
